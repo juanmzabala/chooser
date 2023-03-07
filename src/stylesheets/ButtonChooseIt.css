@@ -1,0 +1,17 @@
+.button-choose-it{
+    width: 300px;
+    height: 70px;
+    padding: 20px;
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 15px;
+    color: #fff;
+    background-color: #787DFA;
+    border:none;
+    cursor: pointer;
+}
+
+.button-choose-it:active{
+    background-color: #5a5ecc;
+}

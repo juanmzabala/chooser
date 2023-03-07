@@ -1,0 +1,13 @@
+*{
+  font-family: 'Inter', sans-serif;
+}
+
+html,
+body{
+  background-color: #FA9778;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+

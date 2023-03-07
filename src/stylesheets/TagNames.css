@@ -1,0 +1,39 @@
+.tag-name-container{
+    min-height: 50px;
+    width: 300px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin: 5px 0 5px 0;
+    transition: background-color 0.1s;
+}
+
+.name-display{
+    margin: 0px 12px;
+    font-size: 20px;
+
+}
+
+.circle-erase{
+    background-color: #F94646;
+    width: 32px;
+    height: 32px;
+    padding: 0px;
+    border-radius: 50px;
+    margin: 8px;
+    border:none;
+    color:#fff;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.circle-erase.oculto{
+    display: none;
+}
+
+.select-tag{
+    color: #fff;
+    background-color: #787DFA
+}
